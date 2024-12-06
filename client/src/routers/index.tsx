@@ -5,7 +5,8 @@ import PrivateRoute from "../privateRoute";
 export const routers  = createBrowserRouter([
     {
         index:true,
-        element:<PrivateRoute>
+        element:
+        <PrivateRoute>
             <Home/>
         </PrivateRoute>
     },
