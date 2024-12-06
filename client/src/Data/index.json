@@ -7,9 +7,9 @@
             "id":1,
             "Qiymet":450,
             "ElanınSahibi":"Orxan",
-            "Şəhər":"Xırdalan",
-            "KirayəMüddəti":"Aylıq",
-            "Binanın tipi":"Yeni tikili",
+            "seher":"Xırdalan",
+            "Müddəti":"Aylıq",
+            "BinanınTipi":"Yeni tikili",
             "OtaqSayı":2,
             "Mezmun":"Salam Xırdalanda tam mərkəzdə grand marketlə üzbəüz irşad telekomun üstündə 2 otaqlı, əşyalı, yeni təmirdən çıxmış mənzil kirayə verilir. Whatsapp aktifdir. ",
             "Nömre":"(050)-520-00-00",
@@ -19,13 +19,37 @@
             "id":2,
             "Qiymet":130000,
             "ElanınSahibi":"Gövhər",
-            "Şəhər":"Xırdalan",
-            "KirayəMüddəti":"Satılır",
-            "Binanın tipi":"Yeni tikili",
+            "seher":"Xırdalan",
+            "Müddəti":"Satılır",
+            "BinanınTipi":"Yeni tikili",
             "OtaqSayı":3,
             "Mezmun":"Salam Xırdalanda tam mərkəzdə grand marketlə üzbəüz irşad telekomun üstündə 2 otaqlı, əşyalı, yeni təmirdən çıxmış mənzil kirayə verilir. Whatsapp aktifdir. ",
             "Nömre":"(050)-520-00-00",
             "img":"https://tap.azstatic.com/uploads/full/2024%2F12%2F06%2F21%2F31%2F50%2F9b888c71-c7d7-4007-930d-7cca36bf10f7%2F67900_VsfyEqu9G0cxtdUTwCN1tQ.jpg"
+        },
+        {
+            "id":3,
+            "Qiymet":130000,
+            "ElanınSahibi":"Gövhər",
+            "seher":"Xırdalan",
+            "Müddəti":"Satılır",
+            "BinanınTipi":"Yeni tikili",
+            "OtaqSayı":3,
+            "Mezmun":"Salam Xırdalanda tam mərkəzdə grand marketlə üzbəüz irşad telekomun üstündə 2 otaqlı, əşyalı, yeni təmirdən çıxmış mənzil kirayə verilir. Whatsapp aktifdir. ",
+            "Nömre":"(050)-520-00-00",
+            "img":"https://tap.azstatic.com/uploads/full/2024%2F12%2F06%2F21%2F31%2F50%2F9b888c71-c7d7-4007-930d-7cca36bf10f7%2F67900_VsfyEqu9G0cxtdUTwCN1tQ.jpg"
+        },
+        {
+            "id":4,
+            "Qiymet":450,
+            "ElanınSahibi":"Orxan",
+            "seher":"Xırdalan",
+            "Müddəti":"Aylıq",
+            "BinanınTipi":"Yeni tikili",
+            "OtaqSayı":2,
+            "Mezmun":"Salam Xırdalanda tam mərkəzdə grand marketlə üzbəüz irşad telekomun üstündə 2 otaqlı, əşyalı, yeni təmirdən çıxmış mənzil kirayə verilir. Whatsapp aktifdir. ",
+            "Nömre":"(050)-520-00-00",
+            "img":"https://tap.azstatic.com/uploads/full/2024%2F12%2F04%2F15%2F24%2F03%2F70d963cb-daa9-4ab8-b257-d85ec263d469%2F15247_eRuz4Do5pS0g3SY6jF6RZg.jpg"
         }
     ]
     
